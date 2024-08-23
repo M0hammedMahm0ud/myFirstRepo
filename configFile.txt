@@ -1,1 +1,1 @@
-configFile test
+test
